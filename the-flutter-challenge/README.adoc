@@ -7,4 +7,4 @@ Claim:: Flutter is a __out-of-the-box__ **productive** and **developer-friendly*
 
 === Challenge Instructions
 
-* [🚀] Add your own folder/workspace to begin `the-flutter-challenge`
+* [🚀] Add your own folder/workspace @ `first-prototype/the-flutter-challange/<your-workspace-folder>` to begin `the-flutter-challenge`
